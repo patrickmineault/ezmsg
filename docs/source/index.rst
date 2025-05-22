@@ -26,6 +26,7 @@ Contents
    about
    api
    utils
+   graphs
    other
    extensions
    developer
