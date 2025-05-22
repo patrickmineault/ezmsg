@@ -41,6 +41,9 @@ https://ezmsg.readthedocs.io/en/latest/
 
 `ezmsg` is very similar to [`labgraph`](https://www.github.com/facebookresearch/labgraph), so you might get a primer with their documentation and examples. Additionally, there are many examples provided in the examples/tests directories strewn throughout this repository.
 
+The command line interface also supports visualizing a running pipeline with
+`ezmsg graphviz` or `ezmsg mermaid`. See the documentation for more details.
+
 ## Extensions
 
 `ezmsg` extensions can be installed individually or all at once. To install all the extension packages in one go, you can use the following command:
